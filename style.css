@@ -1,0 +1,225 @@
+@charset "utf-8";
+body{
+    text-align: center;
+}
+#titulo{
+    background-color:#325a97;
+    margin: -8px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: 1px 2px 1px black;
+}
+header{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+#logo{
+    margin: auto;
+    border-radius: 10px;
+}
+header>p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+main>h2{
+    background-color: #325a97;
+    border-radius: 10px;
+    width: 150px;
+    padding: 3px;
+    margin: auto;
+    margin-bottom: 20px;
+    color: white;
+}
+main>p{
+    text-align: center;
+    text-indent: 15px;
+    font-size: 1.2em;
+    padding: 10px;
+}
+aside{
+    width: 400px;
+}
+aside>h1{
+    margin-top: -2px;
+    background-color: rgb(18, 18, 131);
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+
+
+}
+section{
+    border: 1px solid rgba(0, 0, 0, 0.178);
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    margin-top: 15px;
+    box-shadow: 1px 4px 4px 4px rgba(0, 0, 0, 0.473);
+    border-radius: 10px;
+    display: inline-table;
+    margin-left: 20px;
+
+
+}
+section>h1{
+    margin-top: -2px;
+    background-color: green;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+
+}
+.sabao{
+    border: 1px solid rgba(0, 0, 0, 0.178);
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    margin-top: 15px;
+    box-shadow: 1px 4px 4px 4px rgba(0, 0, 0, 0.473);
+    border-radius: 10px;
+    display: inline-table;
+    margin-left: 20px;
+    
+}
+.sabao>h1{
+    margin-top: -2px;
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+
+
+}
+.papel{
+    border: 1px solid rgba(0, 0, 0, 0.178);
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    margin-top: 15px;
+    box-shadow: 1px 4px 4px 4px rgba(0, 0, 0, 0.473);
+    border-radius: 10px;
+    display: inline-table;
+    margin-left: 20px;
+    
+}
+.papel>h1{
+    margin-top: -2px;
+    background-color: rgb(0, 153, 255);
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+
+
+}
+
+
+img{
+    height: 180px;
+    width: 180px;
+    
+}
+aside{
+    border: 1px solid rgba(0, 0, 0, 0.178);
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    margin-top: 15px;
+    box-shadow: 1px 4px 4px 4px rgba(0, 0, 0, 0.473);
+    border-radius: 10px;
+    display: inline-table;
+    margin-left: 20px;
+
+}
+img{
+    border-radius: 10px;
+    
+}
+aside>a{
+    text-decoration: none;
+    background-color: lime;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: black;
+}
+aside>a:hover{
+    text-decoration: underline;
+    background-color: rgba(0, 255, 0, 0.475);
+}
+section>a{
+    text-decoration: none;
+    background-color: lime;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+section>a:hover{
+    text-decoration: underline;
+    background-color: rgba(0, 255, 0, 0.475);
+}
+.midias{   
+            
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    display:inline-block;
+}
+.midias>a>img{
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 45%;
+    display: block;
+}
+.midias>a>img:hover{
+    box-shadow: 2px 2px 3px 3px rgba(0, 0, 0, 0.434);
+    padding: 2px;
+}
+.meio{
+    background-color:rgb(255, 111, 0) ;
+    margin: -8px;
+    margin-top: 30px;
+    padding: 3px;
+}
+.meio>p{
+    margin-top: -15px;
+
+}
+.meio>h2{
+    
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+
+    padding: 5px;
+    
+}
+footer{
+    margin-top: 10px;
+    text-align: center;
+    
+}
+footer>h4>a{
+    text-align: center;
+    text-decoration: none;
+    background-color:darkblue;
+    color: white;
+    padding: 8px;
+    border-radius: 10px;
+
+}
+footer>h4>a:hover{
+    background-color: cadetblue;
+}
+    footer h3{
+    font-size: 1.2em;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.433);
+    
+    padding: 5px;
+}
+footer>p{
+    margin-bottom: 40px;
+}
